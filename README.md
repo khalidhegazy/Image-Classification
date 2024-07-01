@@ -30,14 +30,4 @@ Sample Image:
 
 6. Conclusion 
 This project demonstrates the effectiveness of CNNs in image classification tasks. The model achieved a high level of accuracy in classifying cats and dogs, indicating robust performance.
-The last five epochs:
-Epoch 21/25
-400/400 ━━━━━━━━━━━━━━━━━━━━ 239s 596ms/step - accuracy: 0.9899 - loss: 0.0407 - val_accuracy: 0.7955 - val_loss: 2.4699
-Epoch 22/25
-400/400 ━━━━━━━━━━━━━━━━━━━━ 241s 601ms/step - accuracy: 0.9898 - loss: 0.0471 - val_accuracy: 0.7850 - val_loss: 2.4601
-Epoch 23/25
-400/400 ━━━━━━━━━━━━━━━━━━━━ 245s 611ms/step - accuracy: 0.9931 - loss: 0.0336 - val_accuracy: 0.7800 - val_loss: 3.2996
-Epoch 24/25
-400/400 ━━━━━━━━━━━━━━━━━━━━ 233s 583ms/step - accuracy: 0.9938 - loss: 0.0251 - val_accuracy: 0.7930 - val_loss: 2.7838
-Epoch 25/25
-400/400 ━━━━━━━━━━━━━━━━━━━━ 231s 577ms/step - accuracy: 0.9936 - loss: 0.0279 - val_accuracy: 0.8020 - val_loss: 2.7659
+The last  epoch :231s 577ms/step - accuracy: 0.9936 - loss: 0.0279 - val_accuracy: 0.8020 - val_loss: 2.7659
